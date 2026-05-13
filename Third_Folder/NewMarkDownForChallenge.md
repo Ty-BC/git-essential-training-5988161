@@ -1,2 +1,1 @@
  line of text
- another line
